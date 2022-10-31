@@ -20,6 +20,7 @@ public class MaxRep {
 				}
 			}
 			System.out.println(ch);
+			System.out.println("tried and done finally");
 
 	}
 	
